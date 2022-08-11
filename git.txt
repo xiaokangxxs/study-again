@@ -8,3 +8,5 @@ hello,xiaokang!study git again.
 python
 
 checkout hot-fix
+
+hot-fix-update
